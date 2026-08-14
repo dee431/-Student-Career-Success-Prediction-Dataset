@@ -1,5 +1,5 @@
 # -Student-Career-Success-Prediction-Dataset
- # 10. Conclusion
+ # 10. Conclusion 🏆💰🥇🥈🎖️🥉🥇
 
 🎖️🏅🥉🥈🥇🏆💰The dataset had 50,000 student records with no missing values, making it clean and ready for modeling.
 About 78% of students were placed and 22% were not, showing a moderate class imbalance.
